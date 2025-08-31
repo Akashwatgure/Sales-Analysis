@@ -6,6 +6,9 @@ Project Overview
 This project showcases a Sales Analysis Dashboard built in Power BI to analyze sales, profit, returns, and delivery efficiency across regions, categories, and customer segments.
 The goal was to uncover actionable business insights and practice data storytelling through visualization.
 
+<img width="1286" height="728" alt="image" src="https://github.com/user-attachments/assets/7815c489-449a-4b31-b555-47279f918e31" />
+
+
 Key Objectives
 
 Analyze sales performance across regions, segments, and categories.
